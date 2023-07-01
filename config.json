@@ -1,0 +1,16 @@
+{
+    "index": "home.md",
+    "contentDir": "content",
+    "outputDir": "output",
+    "articleList": "articles.md",
+    "articleDir": "articles",
+    "homepageConfig": {
+        "showArticles": true,
+        "showFeatured": true,
+        "articlesToShow": 1,
+        "featuredArticle": ""
+    },
+    "styling": {
+        "scssDir": "styles/scss"
+    }
+}
