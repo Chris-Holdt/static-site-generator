@@ -29,8 +29,11 @@ I'm pretty happy with this one
 
 //-- META
 title: Home
-tags: home,page,main,index
-category: unlisted
+filename: index
+date: 03/07/2023
+last-update: 03/07/2023
+tags: [home,page,main,index]
+categories: [unlisted]
 wordcount: 0
 content-type: page
 //-- ><

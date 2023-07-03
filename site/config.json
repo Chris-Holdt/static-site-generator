@@ -8,9 +8,13 @@
         "showArticles": true,
         "showFeatured": true,
         "articlesToShow": 1,
-        "featuredArticle": ""
+        "featuredArticle": "something"
     },
     "styling": {
         "scssDir": "styles/scss"
+    },
+    "htmlConfig": {
+        "top": "top.thtml",
+        "bottom": "bottom.thtml"
     }
 }

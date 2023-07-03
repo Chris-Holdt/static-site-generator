@@ -12,5 +12,9 @@
     },
     "styling": {
         "scssDir": "styles/scss"
+    },
+    "htmlConfig": {
+        "top": "top.thtml",
+        "bottom": "bottom.thtml"
     }
 }
